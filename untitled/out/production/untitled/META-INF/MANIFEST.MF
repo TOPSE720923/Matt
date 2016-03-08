@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: hive-hcatalog-core-0.13.1.jar scala-actors-2.11.0.jar scal
+ a-actors-migration_2.11-1.1.0.jar scala-library.jar scala-parser-comb
+ inators_2.11-1.0.4.jar scala-reflect.jar scala-swing_2.11-1.0.2.jar s
+ cala-xml_2.11-1.0.4.jar hive-contrib-0.13.1.jar sparktestjar_2.10-1.0
+ .jar TestUDTF.jar TestSerDe.jar
+Main-Class: 
+

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="untitled:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled_jar</output-path>
+    <root id="root">
+      <element id="archive" name="untitled.jar">
+        <element id="module-output" name="untitled" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../spark/sql/hive/src/test/resources/hive-hcatalog-core-0.13.1.jar" />
+      <element id="library" level="application" name="scala-sdk-2.11.7" />
+      <element id="file-copy" path="$PROJECT_DIR$/../spark/sql/hive/src/test/resources/hive-contrib-0.13.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../spark/R/pkg/inst/test_support/sparktestjar_2.10-1.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../spark/sql/hive/src/test/resources/TestUDTF.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../spark/sql/hive/src/test/resources/data/files/TestSerDe.jar" />
+    </root>
+  </artifact>
+</component>
